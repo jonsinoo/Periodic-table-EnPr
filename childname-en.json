@@ -402,99 +402,99 @@
     "CHILDNAME_EN": "Cerium",
     "number": 58,
     "atomic_mass": 140.1161,
-    "xpos": 4,
-    "ypos": 8
+    "xpos":3,
+    "ypos":68
   },
   {
     "CHILDNAME_EN": "Praseodymium",
     "number": 59,
     "atomic_mass": 140.907662,
-    "xpos": 5,
-    "ypos": 8
+    "xpos":3,
+    "ypos":68
   },
   {
     "CHILDNAME_EN": "Neodymium",
     "number": 60,
     "atomic_mass": 144.2423,
-    "xpos": 6,
-    "ypos": 8
+    "xpos":3,
+    "ypos":68
   },
   {
     "CHILDNAME_EN": "Promethium",
     "number": 61,
     "atomic_mass": 145,
-    "xpos": 7,
-    "ypos": 8
+    "xpos":3,
+    "ypos":68
   },
   {
     "CHILDNAME_EN": "Samarium",
     "number": 62,
     "atomic_mass": 150.362,
-    "xpos": 8,
-    "ypos": 8
+    "xpos":3,
+    "ypos":68
   },
   {
     "CHILDNAME_EN": "Europium",
     "number": 63,
     "atomic_mass": 151.9641,
-    "xpos": 9,
-    "ypos": 8
+    "xpos":3,
+    "ypos":68
   },
   {
     "CHILDNAME_EN": "Gadolinium",
     "number": 64,
     "atomic_mass": 157.253,
-    "xpos": 10,
-    "ypos": 8
+    "xpos": 3,
+    "ypos": 6
   },
   {
     "CHILDNAME_EN": "Terbium",
     "number": 65,
     "atomic_mass": 158.925352,
-    "xpos": 11,
-    "ypos": 8
+    "xpos": 3,
+    "ypos": 6
   },
   {
     "CHILDNAME_EN": "Dysprosium",
     "number": 66,
     "atomic_mass": 162.5001,
-    "xpos": 12,
-    "ypos": 8
+    "xpos": 3,
+    "ypos": 6
   },
   {
     "CHILDNAME_EN": "Holmium",
     "number": 67,
     "atomic_mass": 164.930332,
-    "xpos": 13,
-    "ypos": 8
+    "xpos": 3,
+    "ypos": 6
   },
   {
     "CHILDNAME_EN": "Erbium",
     "number": 68,
     "atomic_mass": 167.2593,
-    "xpos": 14,
-    "ypos": 8
+    "xpos": 3,
+    "ypos": 6
   },
   {
     "CHILDNAME_EN": "Thulium",
     "number": 69,
     "atomic_mass": 168.934222,
-    "xpos": 15,
-    "ypos": 8
+    "xpos": 3,
+    "ypos": 6
   },
   {
     "CHILDNAME_EN": "Ytterbium",
     "number": 70,
     "atomic_mass": 173.0451,
-    "xpos": 16,
-    "ypos": 8
+    "xpos": 3,
+    "ypos": 6
   },
   {
     "CHILDNAME_EN": "Lutetium",
     "number": 71,
     "atomic_mass": 174.96681,
-    "xpos": 17,
-    "ypos": 8
+    "xpos": 3,
+    "ypos": 6
   },
   {
     "CHILDNAME_EN": "Hafnium",
@@ -626,99 +626,99 @@
     "CHILDNAME_EN": "Thorium",
     "number": 90,
     "atomic_mass": 232.03774,
-    "xpos": 4,
-    "ypos": 9
+    "xpos":3,
+    "ypos":79
   },
   {
     "CHILDNAME_EN": "Protactinium",
     "number": 91,
     "atomic_mass": 231.035882,
-    "xpos": 5,
-    "ypos": 9
+    "xpos":3,
+    "ypos":79
   },
   {
     "CHILDNAME_EN": "Uranium",
     "number": 92,
     "atomic_mass": 238.028913,
-    "xpos": 6,
-    "ypos": 9
+    "xpos":3,
+    "ypos":79
   },
   {
     "CHILDNAME_EN": "Neptunium",
     "number": 93,
     "atomic_mass": 237,
-    "xpos": 7,
-    "ypos": 9
+    "xpos":3,
+    "ypos":79
   },
   {
     "CHILDNAME_EN": "Plutonium",
     "number": 94,
     "atomic_mass": 244,
-    "xpos": 8,
-    "ypos": 9
+    "xpos":3,
+    "ypos":79
   },
   {
     "CHILDNAME_EN": "Americium",
     "number": 95,
     "atomic_mass": 243,
-    "xpos": 9,
-    "ypos": 9
+    "xpos":3,
+    "ypos":79
   },
   {
     "CHILDNAME_EN": "Curium",
     "number": 96,
     "atomic_mass": 247,
-    "xpos": 10,
-    "ypos": 9
+    "xpos": 3,
+    "ypos": 7
   },
   {
     "CHILDNAME_EN": "Berkelium",
     "number": 97,
     "atomic_mass": 247,
-    "xpos": 11,
-    "ypos": 9
+    "xpos": 3,
+    "ypos": 7
   },
   {
     "CHILDNAME_EN": "Californium",
     "number": 98,
     "atomic_mass": 251,
-    "xpos": 12,
-    "ypos": 9
+    "xpos": 3,
+    "ypos": 7
   },
   {
     "CHILDNAME_EN": "Einsteinium",
     "number": 99,
     "atomic_mass": 252,
-    "xpos": 13,
-    "ypos": 9
+    "xpos": 3,
+    "ypos": 7
   },
   {
     "CHILDNAME_EN": "Fermium",
     "number": 100,
     "atomic_mass": 257,
-    "xpos": 14,
-    "ypos": 9
+    "xpos": 3,
+    "ypos": 7
   },
   {
     "CHILDNAME_EN": "Mendelevium",
     "number": 101,
     "atomic_mass": 258,
-    "xpos": 15,
-    "ypos": 9
+    "xpos": 3,
+    "ypos": 7
   },
   {
     "CHILDNAME_EN": "Nobelium",
     "number": 102,
     "atomic_mass": 259,
-    "xpos": 16,
-    "ypos": 9
+    "xpos": 3,
+    "ypos": 7
   },
   {
     "CHILDNAME_EN": "Lawrencium",
     "number": 103,
     "atomic_mass": 266,
-    "xpos": 17,
-    "ypos": 9
+    "xpos": 3,
+    "ypos": 7
   },
   {
     "CHILDNAME_EN": "Rutherfordium",
